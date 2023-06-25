@@ -105,17 +105,6 @@ git clone https://github.com/Rikworkco/foodgram-project-react
  + Проект запущен:
    Проект будет доступен по вашему IP-адресу.
 
-```bash
-# Админ зона
-Login: admin777
-Password: admin777
-
-# Тестовый пользователь
-Email: rikworkco4@gmail.com
-Password: Qwerty999
-```
-
-## Сайт: 158.160.18.51
 
 ## Автор:
 Росманов Илья
